@@ -1,0 +1,82 @@
+.bar,ul
+{ 
+    text-align:right;
+     font-size: 15px;
+    padding: 25px;
+    margin-bottom:20px;
+    word-spacing:20px;
+    text-decoration: none;
+    text-transform:capitalize;
+    
+    
+
+}
+body
+{
+    background-image:url(HD-wallpaper-beautiful-nature-full-basty-beautiful-nature-background-nature-beautiful-nature-beautiful-green-nature.jpg);
+    background-size: 90% 87%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-color:white;
+}
+.bar,ul,a
+{
+    color:yellow;
+    text-decoration: none;
+    padding: 25px;
+}
+.header,p
+{
+    float:right;
+    font-size:15px;
+    font-family:serif;
+    color:white;
+    line-height: 20px;
+    word-spacing:5px;
+    text-transform: capitalize;
+    padding-left: 53%;
+    position: fixed;
+    font-weight: bold;
+    margin-top: 32px;
+    padding-right: 18px;
+
+
+
+    
+}
+h1
+{
+    font-size: 34px;
+    font-family: serif;
+    color: white;
+    font-size: bold;
+    text-transform: uppercase;
+    position: fixed;
+    text-align: center;
+    padding-left: 540px;
+    margin-top: 98px;
+    word-spacing: 6px;
+}
+button
+{
+    margin-top: 250PX;
+    text-align: center;
+    margin-left: 640px;
+    padding: 10px;
+    font-size: 17px;
+    text-transform: capitalize;
+    background-color: rgb(6, 247, 6);
+    color:black;
+    border: solid 3px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: bold;
+
+
+}
+button:hover
+{
+    background-color: lightgreen;
+    color:white ;
+}

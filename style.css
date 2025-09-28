@@ -13,7 +13,7 @@
 }
 body
 {
-    background-image:url(HD-wallpaper-beautiful-nature-full-basty-beautiful-nature-background-nature-beautiful-nature-beautiful-green-nature.jpg);
+    background-image:url("wp2568544.jpg");
     background-size: 90% 87%;
     background-repeat: no-repeat;
     background-position: center;
@@ -49,18 +49,18 @@ h1
 {
     font-size: 34px;
     font-family: serif;
-    color: white;
+    color: blue;
     font-size: bold;
     text-transform: uppercase;
     position: fixed;
     text-align: center;
-    padding-left: 540px;
+    padding-left: 580px;
     margin-top: 98px;
     word-spacing: 6px;
 }
 button
 {
-    margin-top: 250PX;
+    margin-top: 220PX;
     text-align: center;
     margin-left: 640px;
     padding: 10px;
